@@ -1,0 +1,14 @@
+Dimensions:
+- 21mm thick
+- 96mm tall
+- 64mm wide
+
+Effects:
+- up to 4mm swing in all directions (+/-2mm)
+
+Settings:
+- Use support blockers for the rings
+- Layer height 0.2mm MAX
+- Nozzle 0.6mm MAX
+- Infill 40-80%
+- Walls 2 + alternating
