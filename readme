@@ -1,3 +1,5 @@
+QUAD LOCK Adapter
+
 Dimensions:
 - 21mm thick
 - 96mm tall
@@ -6,9 +8,12 @@ Dimensions:
 Effects:
 - up to 4mm swing in all directions (+/-2mm)
 
-Settings:
+Print settings:
 - Use support blockers for the rings
 - Layer height 0.2mm MAX
 - Nozzle 0.6mm MAX
 - Infill 40-80%
 - Walls 2 + alternating
+
+Requirements:
+- 4x TPU/rubber/silicone 21mm anti-vibration stand-offs
